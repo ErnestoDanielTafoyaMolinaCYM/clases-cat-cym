@@ -1,5 +1,6 @@
+@import url("variables.css");
 header {
-    background-color: rgb(147, 116, 75);
+    background-color: var(--secondary-color);
     position: -webkit-sticky; /* Para soporte en Safari */
     position: sticky;
     top: 0;
@@ -11,7 +12,8 @@ header {
     
 }
 nav {
-    background-color: rgb(147, 116, 75);
+    background-color: var(--secondary-color);
+
 }
 header > nav > ul > li > a {
     color: white !important;

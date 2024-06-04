@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="./assets/css/styles.css">
     <link rel="stylesheet" href="./assets/css/callHistory.css">
     <link rel="stylesheet" href="./assets/css/dashboard.css">
@@ -13,15 +16,17 @@
     <link rel="stylesheet" href="./assets/css/header.css">
     <title>C&M CAT</title>
 </head>
+
 <body>
 
     <header>
         <nav class="navbar navbar-expand-lg fixed-top p-3">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="./assets/img/CYMLogo.png" alt="C&M.pngn" class="d-inline-block align-text-top logo">
+                    <img src="./assets/img/CYMLogo-2.png" alt="C&M.pngn" class="d-inline-block align-text-top logo">
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
@@ -43,13 +48,13 @@
     <main class="container">
         <!-- Login -->
         <section id="login" class="full-screen d-flex justify-content-center align-items-center">
-            <div class="card text-center shadow p-3"  style="width: 25rem; border: none;">
+            <div class="card text-center shadow p-3" style="width: 25rem; border: none;">
                 <h2>Inicio de sesión</h2>
                 <form class="card-body">
                     <div class="form-group d-flex flex-column gap-3">
                         <input type="text" class="form-control" placeholder="Usuario">
                         <input type="password" class="form-control" placeholder="Contraseña">
-                        <button class="btn btn-block w-100 login-btn">Iniciar</button>    
+                        <button class="btn btn-block w-100 login-btn">Iniciar</button>
                     </div>
                 </form>
             </div>
@@ -68,55 +73,134 @@
         </section>
         <hr />
         <!-- New Call -->
-        <section id="newCall" class="full-screen d-flex justify-content-center align-items-center">
-            aquí ira el formulario para las llamadas
+        <section id="newCall" class="full-screen justify-content-center align-items-center">
+            <h2 class="text-center">Registrar nueva llamada</h2>
+            <form action="" class="form-floating">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="form-floating mb-3">
+                            <input type="datetime-local" class="form-control" id="floatingInput"
+                                placeholder="name@example.com">
+                            <label for="floatingInput">Fecha y hora: </label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                            <label for="floatingInput">Nombre: </label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control" placeholder="name@example.com">
+                            <label>Asunto: </label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control" placeholder="name@example.com">
+                            <label>¿A quién está buscando?</label>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-6">
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control" placeholder="name@example.com">
+                            <label>Compañia: </label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control" placeholder="name@example.com">
+                            <label>Dirección: </label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="datetime-local" class="form-control">
+                            <label>Fecha tentativa de llamada: </label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <select name="type" id="" class="form-select">
+                                <option value="" selected>-- SELECT --</option>
+                                <option value="queja">Queja</option>
+                                <option value="sugerencia">Sugerencia </option>
+                            </select>
+                            <label>Tipo de llamada: </label>
+                        </div>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Registrar</button>
+            </form>
         </section>
         <hr />
-        <section id="callHistory"class="full-screen d-flex justify-content-center align-items-center">
-            <table class="table">
-                <thead>
-                  <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">3</th>
-                    <td colspan="2">Larry the Bird</td>
-                    <td>@twitter</td>
-                  </tr>
-                </tbody>
-              </table>
+        <section id="callHistory" class="full-screen d-flex ">
+            <div class="container mt-5">
+                <div class="table-responsive">
+                    <table class="table table-striped text-center">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Tipo de llamada</th>
+                                <th>Persona que llamó</th>
+                                <th>Asunto</th>
+                                <th>Devolver llamada</th>
+                                <th>Opciones</th>
+                            </tr>
+                        </thead>
+                        <tbody class="align-middle">
+                            <tr>
+                                <td>1</td>
+                                <td>Queja</td>
+                                <td>Raul Pereira</td>
+                                <td>Requisición de medicamentos faltante</td>
+                                <td>Lunes 21 de Marzo a las 12:00</td>
+                                <td>
+                                    <button class="btn btn-info"><i class="fa-solid fa-circle-info"></i></button>
+                                    <button class="btn btn-success"><i class="fa-solid fa-file-excel"></i></button>
+                                    <button class="btn btn-danger"><i class="fa-solid fa-file-pdf"></i></button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Sugerencia</td>
+                                <td>Ana Lopez</td>
+                                <td>Cambio de orden de medicamento</td>
+                                <td>Martes 22 de Marzo a las 15:00</td>
+                                <td>
+                                    <button class="btn btn-info"><i class="fa-solid fa-circle-info"></i></button>
+                                    <button class="btn btn-success"><i class="fa-solid fa-file-excel"></i></button>
+                                    <button class="btn btn-danger"><i class="fa-solid fa-file-pdf"></i></button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Queja</td>
+                                <td>Elizabeth Martinez</td>
+                                <td>Tardanza en tiempo de entrega</td>
+                                <td>Miercoles 25 de Marzo a las 08:00</td>
+                                <td>
+                                    <button class="btn btn-info"><i class="fa-solid fa-circle-info"></i></button>
+                                    <button class="btn btn-success"><i class="fa-solid fa-file-excel"></i></button>
+                                    <button class="btn btn-danger"><i class="fa-solid fa-file-pdf"></i></button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </section>
     </main>
 
     <footer>
-        <p>© 2023 C&M Distribuidora de medicamentos y material de curación SA. de C.V. Todos los derechos reservados.</p>
-        <p class="address">Calle Sonora S/N, Nave 11, Col. Ricardo Flores Magón, Cuernavaca, Morelos, México, C.P. 62370</p>
+        <p>© 2023 C&M Distribuidora de medicamentos y material de curación SA. de C.V. Todos los derechos reservados.
+        </p>
+        <p class="address">Calle Sonora S/N, Nave 11, Col. Ricardo Flores Magón, Cuernavaca, Morelos, México, C.P. 62370
+        </p>
         <div class="collor-pallete">
-            <div class="col-md-4 bar blue"></div>
-            <div class="col-md-4 bar yellow"></div>
-            <div class="col-md-4 bar gray"></div>
+            <div class="col-xs-4 col-sm-4 col-md-4 bar blue"></div>
+            <div class="col-xs-4 col-sm-4 col-md-4 bar yellow"></div>
+            <div class="col-xs-4 col-sm-4 col-md-4 bar gray"></div>
         </div>
     </footer>
 
     <script type="module" src="./assets/js/index.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
