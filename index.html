@@ -59,21 +59,50 @@
                 </form>
             </div>
         </section>
-        <hr />
+
         <!-- Dashboard -->
         <section id="dashboard" class="full-screen d-flex justify-content-center align-items-center">
-            <div class="row w-100 d-flex flex-column text-center">
-                <div class="col-md-12 bg-secondary">
-                    <h2>Registrar nueva llamada</h2>
+            <div class="row w-100 justify-content-between">
+                <div class="col-md-5 p-3 register-call-insstructions">
+                    <h2 class="text-center">Registrar nueva llamada</h2>
+
+                    <p style="text-align: justify;">
+                        Entra al formulario para registrar llamada una vez que haya una llamada entrante, asegurate de
+                        preguntar y registrar correctamente los siguientes
+                        datos:
+                    </p>
+                    <ul>
+                        <li>Fecha y hora de la llamada.</li>
+                        <li>Nombre de la persona que está llamado.</li>
+                        <li>Asunto de la llamada.</li>
+                        <li>A quien está buscando.</li>
+                        <li>Nombre de la compañia en la que labora.</li>
+                        <li>Algún correo electrónico.</li>
+                        <li>Algún numero de teléfono.</li>
+                        <li>Dirección de la compañia (opcional).</li>
+                        <li>Ofrece y registra una fecha/hora tentativa para devolver la llamada.</li>
+                        <li>Registra que tipo de llamada es: (queja, sugerencia, comentario)</li>
+                    </ul>
+                    <p class="text-center mt-5">Has <a href="#newCall">click aquí</a> para comenzar el registro de una
+                        llamada.</p>
+
                 </div>
-                <div class="col-md-12 bg-warning">
+                <div class="col-md-5 p-3 histrory-instructions">
                     <h2>Historial de llamadas</h2>
+                    <p style="text-align: justify;">
+                        En el historial de llamadas puedes ver las llamadas que han sido registradas, ordenarlas por la fecha y por el tipo.
+                        Además podrás revisar más información haciendo click en el icono de información.
+                        Podrás convertir la información a PDF.
+                        Podrás convertir la información a un editable de excel.
+                    </p>
+
+                    <p class="text-center mt-5">Has <a href="#callHistory">click aquí</a> para revisar el registro de las llamadas.</p>
                 </div>
             </div>
         </section>
-        <hr />
+
         <!-- New Call -->
-        <section id="newCall" class="full-screen justify-content-center align-items-center">
+        <section id="newCall" class="full-screen d-flex justify-content-center flex-column align-items-center w-100">
             <h2 class="text-center">Registrar nueva llamada</h2>
             <form action="" class="form-floating">
                 <div class="row">
@@ -111,11 +140,7 @@
                             <label>Fecha tentativa de llamada: </label>
                         </div>
                         <div class="form-floating mb-3">
-                            <select name="type" id="" class="form-select">
-                                <option value="" selected>-- SELECT --</option>
-                                <option value="queja">Queja</option>
-                                <option value="sugerencia">Sugerencia </option>
-                            </select>
+                            <input type="text" name="call_type" class="form-control">
                             <label>Tipo de llamada: </label>
                         </div>
                     </div>
@@ -123,8 +148,19 @@
                 <button type="submit" class="btn btn-primary w-100">Registrar</button>
             </form>
         </section>
-        <hr />
-        <section id="callHistory" class="full-screen d-flex ">
+        <section id="callHistory" class="full-screen justify-content-center flex-column align-items-center">
+            <div class="row d-flex justify-content-between">
+                <div class="orden-btn justify-content-end align-items-end d-flex">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Ordenar lista por:
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Fecha</a></li>
+                        <li><a class="dropdown-item" href="#">Tipo</a></li>
+                    </ul>
+                </div>
+            </div>
             <div class="container mt-5">
                 <div class="table-responsive">
                     <table class="table table-striped text-center">
