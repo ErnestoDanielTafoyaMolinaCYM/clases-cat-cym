@@ -375,6 +375,9 @@
         <mxCell id="1JZAllyOzMSULTTgwFGF-109" value="porcentaje máximo será el CPM&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mínimo será el 25%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;porcentaje Reorden será el 50%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;días frecuencia de paso será 4 es decir 25% también&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Considerar que el pedido sugerido será máximo menos existencias&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;startSize=30;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-15" width="120" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="O7t60LnSSBm4WavCRXYE-1" value="El día 17/12/2024 se agrego también un requerimiento funcional en el que podemos hacer 2 vistas más una con el mes maximo del solicitado y dejarlo fijo para todas las claves entre el solicitado.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Otra con mes vencido también pero que no sea fijo si no que el mes sea variable según su consumo(como se tiene actualmente, pero el modelo actual contempla desde el día uno al día actual)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="80" width="280" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
