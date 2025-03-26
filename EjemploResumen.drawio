@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.1.1">
   <diagram name="Página-1" id="k7U1tm6xe3xZ00xfb6se">
-    <mxGraphModel>
+    <mxGraphModel dx="1356" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-1" value="EXCEL(tabla dinamica)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-3" value="Python con pandas&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-5" value="MYSQL&lt;div&gt;(CONSULTA)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-9" value="KARDEX&lt;div&gt;CPM&lt;/div&gt;&lt;div&gt;INVENTARIO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CLAVE, CLUES, LOTE, CADUCIDAD, CANTIDAD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-10" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-10" value="alternativa 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="108" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-11" value="alternativa2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="108" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-12" value="alternativa3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="108" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-13" value="Agrupar los datos solo por clave,clues para cuadrar cantidades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="48" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.005;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RpuAzim3Sx4dqrJFKpes-13" target="RpuAzim3Sx4dqrJFKpes-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="140" as="sourcePoint" />
+            <mxPoint x="480" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-15" value="Datos agrupados" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="338" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-16" value="Datos Agrupados" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="338" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-17" value="Datos agrupados" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="348" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-20" value="Clave, clues, cantidad(sumada)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="368" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-21" value="Clave, clues, cantidad(sumada)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="378" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpuAzim3Sx4dqrJFKpes-22" value="Clave, clues, cantidad(sumada)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="378" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
