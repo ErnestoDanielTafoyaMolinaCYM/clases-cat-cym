@@ -15,31 +15,31 @@
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="01GxgVdKEoSKiMy3Bp7d-3" target="01GxgVdKEoSKiMy3Bp7d-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="160.13043478260875" as="targetPoint" />
+            <mxPoint x="731" y="160.13043478260875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-3" value="OC(clave, cantidad y destino)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="120" width="150" height="80" as="geometry" />
+          <mxGeometry x="500" y="120" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="01GxgVdKEoSKiMy3Bp7d-6" target="01GxgVdKEoSKiMy3Bp7d-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-6" value="Proveedores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="711" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.587;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="01GxgVdKEoSKiMy3Bp7d-8" target="01GxgVdKEoSKiMy3Bp7d-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="280" as="targetPoint" />
+            <mxPoint x="861" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-8" value="Pago" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="801" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-11" value="Recepcion" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="170" height="60" as="geometry" />
+          <mxGeometry x="761" y="260" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-12" value="(ej Arkanum)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="98" width="90" height="30" as="geometry" />
+          <mxGeometry x="686" y="98" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="01GxgVdKEoSKiMy3Bp7d-1" target="01GxgVdKEoSKiMy3Bp7d-13">
           <mxGeometry relative="1" as="geometry">
@@ -58,6 +58,9 @@
         </mxCell>
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-19" value="(Ej PRUEBA-ISSEA-2025-01&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="01GxgVdKEoSKiMy3Bp7d-20" value="No. de Pedido(catálogos)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
