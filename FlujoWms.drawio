@@ -53,8 +53,11 @@
         <mxCell id="01GxgVdKEoSKiMy3Bp7d-16" value="Contrato" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="01GxgVdKEoSKiMy3Bp7d-17" value="(Ej 060.000.0298)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="90" width="120" height="30" as="geometry" />
+        <mxCell id="01GxgVdKEoSKiMy3Bp7d-17" value="(Ej 060.000.0298, 10 pesos&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="01GxgVdKEoSKiMy3Bp7d-19" value="(Ej PRUEBA-ISSEA-2025-01&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
