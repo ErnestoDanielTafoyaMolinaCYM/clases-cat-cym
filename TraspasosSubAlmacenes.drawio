@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-104" value="realizar actualización tb_lote(salida)&lt;div&gt;&lt;div&gt;realizar&amp;nbsp; movimiento de salida por traspaso en tb_movinv F_DocMov en cero&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="2320" width="320" height="100" as="geometry" />
+          <mxGeometry x="1325" y="2260" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-105" value="Subalmacen origen&lt;div&gt;Subalmacen destino&lt;/div&gt;&lt;div&gt;Claves(id de tb_lote( que ya incluye clave, lote, caducidad, ubicación)y cantidad)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1970" width="300" height="80" as="geometry" />
@@ -320,13 +320,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-113" value="toda la cantidad" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="2110" width="150" height="60" as="geometry" />
+          <mxGeometry x="1420" y="2110" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l9VA6hZa9uN_EuhGzY8-115" target="6l9VA6hZa9uN_EuhGzY8-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-115" value="cantidad seleccionada" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="2230" width="115" height="80" as="geometry" />
+          <mxGeometry x="1172.5" y="2208" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-116" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1345" y="2098" width="30" height="30" as="geometry" />
@@ -344,10 +344,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-121" value="realizar inserción/actualización tb_lote()&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;realizar movimiento de entrada por traspaso en tb_movinv&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;F_DocMov en cero&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="2510" width="320" height="100" as="geometry" />
+          <mxGeometry x="1325" y="2420" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="2740" width="130" height="60" as="geometry" />
+          <mxGeometry x="1420" y="2580" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
