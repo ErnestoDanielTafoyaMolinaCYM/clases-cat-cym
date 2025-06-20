@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.6">
   <diagram name="Página-1" id="tT_PuMGkme6JgrerA0NC">
-    <mxGraphModel dx="1422" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-104" value="realizar actualización tb_lote(salida)&lt;div&gt;&lt;div&gt;realizar&amp;nbsp; movimiento de salida por traspaso en tb_movinv F_DocMov en cero&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1310" y="2320" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6l9VA6hZa9uN_EuhGzY8-105" value="Subalmacen origen&lt;div&gt;Subalmacen destino&lt;/div&gt;&lt;div&gt;Claves(id de tb_lote y cantidad)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+        <mxCell id="6l9VA6hZa9uN_EuhGzY8-105" value="Subalmacen origen&lt;div&gt;Subalmacen destino&lt;/div&gt;&lt;div&gt;Claves(id de tb_lote( que ya incluye clave, lote, caducidad, ubicación)y cantidad)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1970" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.465;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6l9VA6hZa9uN_EuhGzY8-102" target="6l9VA6hZa9uN_EuhGzY8-105">
