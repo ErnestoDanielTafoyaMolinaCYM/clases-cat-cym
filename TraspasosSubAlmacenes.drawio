@@ -305,7 +305,7 @@
           <mxGeometry x="1325" y="2260" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-105" value="Subalmacen origen&lt;div&gt;Subalmacen destino&lt;/div&gt;&lt;div&gt;Claves(id de tb_lote( que ya incluye clave, lote, caducidad, ubicación)y cantidad)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1970" width="300" height="80" as="geometry" />
+          <mxGeometry x="1040" y="1970" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6l9VA6hZa9uN_EuhGzY8-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.465;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6l9VA6hZa9uN_EuhGzY8-102" target="6l9VA6hZa9uN_EuhGzY8-105">
           <mxGeometry relative="1" as="geometry" />
