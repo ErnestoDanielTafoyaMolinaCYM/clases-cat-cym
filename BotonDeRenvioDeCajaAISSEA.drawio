@@ -47,6 +47,9 @@
         <mxCell id="ZRjAg3TC_4vjhs7gHmQ1-13" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZRjAg3TC_4vjhs7gHmQ1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZRjAg3TC_4vjhs7gHmQ1-15" target="ZRjAg3TC_4vjhs7gHmQ1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRjAg3TC_4vjhs7gHmQ1-15" value="Se dispensa normalmente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -94,6 +97,12 @@
         </mxCell>
         <mxCell id="ZRjAg3TC_4vjhs7gHmQ1-33" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="558" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRjAg3TC_4vjhs7gHmQ1-34" value="fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRjAg3TC_4vjhs7gHmQ1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZRjAg3TC_4vjhs7gHmQ1-30" target="ZRjAg3TC_4vjhs7gHmQ1-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
