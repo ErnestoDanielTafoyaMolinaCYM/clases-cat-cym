@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="28.1.2">
   <diagram name="Página-1" id="Hsmyq0QHZBYc-oGVlMQ4">
-    <mxGraphModel>
+    <mxGraphModel dx="1280" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D-_3n276E0AiOtU3BTp9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-1" target="D-_3n276E0AiOtU3BTp9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-2" target="D-_3n276E0AiOtU3BTp9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-2" value="Crear Empresa" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-3" target="D-_3n276E0AiOtU3BTp9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-3" value="Crear Negocio(Proyecto)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-6" target="D-_3n276E0AiOtU3BTp9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-6" value="Crear almacén(cedis)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-8" target="D-_3n276E0AiOtU3BTp9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-8" value="Crear Almacén y sus subalmacenes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-10" target="D-_3n276E0AiOtU3BTp9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-10" value="Cargar catálogos(medicamentos, proveedores, marcas, fabricante)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-12" target="D-_3n276E0AiOtU3BTp9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-12" value="Alta de pedido/pedidos" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-_3n276E0AiOtU3BTp9-14" target="D-_3n276E0AiOtU3BTp9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-14" value="Asociar costo producto proveedor y precio de venta por contrato" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_3n276E0AiOtU3BTp9-16" value="Dar de alta claves(masiva o remisión y captura movimiento)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="180" width="160" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
