@@ -19,12 +19,10 @@
         <mxCell id="TbyI9scAErmBb7r6-o0W-2" value="bugfix/yucatan-conflictos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="230" y="140" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TbyI9scAErmBb7r6-o0W-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TbyI9scAErmBb7r6-o0W-3" target="TbyI9scAErmBb7r6-o0W-38" edge="1">
+        <mxCell id="TbyI9scAErmBb7r6-o0W-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1MetSyp41Zf-Jcyhe1Pi-2" target="TbyI9scAErmBb7r6-o0W-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="50" />
               <mxPoint x="-50" y="50" />
-              <mxPoint x="-50" y="140" />
             </Array>
             <mxPoint y="140" as="targetPoint" />
           </mxGeometry>
@@ -120,13 +118,25 @@
           <mxGeometry x="420" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TbyI9scAErmBb7r6-o0W-36" value="vas a trabajar con Yucatan?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TbyI9scAErmBb7r6-o0W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.075;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TbyI9scAErmBb7r6-o0W-36" target="TbyI9scAErmBb7r6-o0W-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TbyI9scAErmBb7r6-o0W-38" value="Bajar cambios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MetSyp41Zf-Jcyhe1Pi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TbyI9scAErmBb7r6-o0W-3" target="1MetSyp41Zf-Jcyhe1Pi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="50" />
+            </Array>
+            <mxPoint x="390" y="140" as="sourcePoint" />
+            <mxPoint x="-50" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MetSyp41Zf-Jcyhe1Pi-2" value="Crear nueva rama" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
