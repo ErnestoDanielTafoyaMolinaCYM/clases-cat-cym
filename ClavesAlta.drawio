@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="28.2.0">
   <diagram name="Página-1" id="v9hj_F2Pf64KZiWr7OxV">
-    <mxGraphModel dx="1113" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
           <mxGeometry x="180" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-15" value="propuesta de Ernesto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="450" width="140" height="30" as="geometry" />
+          <mxGeometry x="280" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-16" value="realizar movimientos en sistema con clave cuadro básico." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="640" width="120" height="60" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="750" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-34" value="propuesta de Ismael" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="150" width="130" height="30" as="geometry" />
+          <mxGeometry x="840" y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-35" value="realizar movimientos en sistema con clave negocio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="555" width="120" height="60" as="geometry" />
