@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="28.2.0">
   <diagram name="Página-1" id="v9hj_F2Pf64KZiWr7OxV">
-    <mxGraphModel dx="1506" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,8 +204,52 @@
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-69" value="NO debería haber SB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1290" y="188" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-70" target="BL9E6-mRbqVSJRH6Qvqm-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-70" value="usar Clave negocio (tb_medica y tb_descricpciones)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-76" value="NO se usan SAT ni&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="390" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-79" target="BL9E6-mRbqVSJRH6Qvqm-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-79" value="se hace FolLot&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-80" target="BL9E6-mRbqVSJRH6Qvqm-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-80" value="se ingresa en tb_movinv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-82" target="BL9E6-mRbqVSJRH6Qvqm-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-82" value="se incrementa la cantidad" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-84" target="BL9E6-mRbqVSJRH6Qvqm-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-84" target="BL9E6-mRbqVSJRH6Qvqm-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-84" value="se aumenta el folio de movimiento" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-90" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="623" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-95" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="533" width="250" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-89" value="CASE &#39;SIN/CB&#39; THEN &#39;CLAVE INTERNA&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="555" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
