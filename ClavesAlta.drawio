@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="28.2.0">
   <diagram name="Página-1" id="v9hj_F2Pf64KZiWr7OxV">
-    <mxGraphModel dx="1219" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,8 +236,10 @@
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-84" target="BL9E6-mRbqVSJRH6Qvqm-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-84" target="BL9E6-mRbqVSJRH6Qvqm-89">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BL9E6-mRbqVSJRH6Qvqm-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-84" value="se aumenta el folio de movimiento" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="565" width="120" height="40" as="geometry" />
@@ -245,11 +247,8 @@
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-90" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="623" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-95" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-95" value="SURTIDO Y REMISIÓN&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sería clave de negocio&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="533" width="250" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="BL9E6-mRbqVSJRH6Qvqm-89" value="CASE &#39;SIN/CB&#39; THEN &#39;CLAVE INTERNA&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="555" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
