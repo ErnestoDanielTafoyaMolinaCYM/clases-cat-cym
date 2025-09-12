@@ -196,10 +196,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-65" value="¿Existe clave(3 posibilidades)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="1190" y="285" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-67" value="No existe clave" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="1340" y="275" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BL9E6-mRbqVSJRH6Qvqm-69" value="NO debería haber SB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1290" y="188" width="140" height="30" as="geometry" />
