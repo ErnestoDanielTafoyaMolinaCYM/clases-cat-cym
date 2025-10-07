@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.5">
   <diagram name="Página-1" id="Hl8yDdRmfJIduMSGg-D1">
-    <mxGraphModel>
+    <mxGraphModel dx="1280" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-1" target="nUd3EC4KVX3uS_AmEfSx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-2" target="nUd3EC4KVX3uS_AmEfSx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-2" value="devolver claves" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-4" target="nUd3EC4KVX3uS_AmEfSx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-4" value="Consultar tb_factura con el pedido y clave que se ha devuelto(aquellas con C en F_StsFact)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;obtener resta de las claves surtidas - claves canceladas&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-6" target="nUd3EC4KVX3uS_AmEfSx-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-6" value="consultar tb_unireq y con los datos de la resta aplicarlos en F_PzSurtida." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="484.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-11" target="nUd3EC4KVX3uS_AmEfSx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-16" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nUd3EC4KVX3uS_AmEfSx-15">
+          <mxGeometry x="-0.07" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-11" target="nUd3EC4KVX3uS_AmEfSx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nUd3EC4KVX3uS_AmEfSx-18">
+          <mxGeometry x="-0.15" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-11" value="¿Está todo pendiente?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-14" value="actualizar F_Status como 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-17" target="nUd3EC4KVX3uS_AmEfSx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-17" value="actualizar F_Status como 3(parcial)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-21" target="nUd3EC4KVX3uS_AmEfSx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-21" value="remisionar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.685;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nUd3EC4KVX3uS_AmEfSx-14" target="nUd3EC4KVX3uS_AmEfSx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUd3EC4KVX3uS_AmEfSx-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
