@@ -1,9 +1,98 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.5">
   <diagram name="Página-1" id="xafGS_GC7jtGlTouPf2w">
-    <mxGraphModel>
+    <mxGraphModel dx="2107" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-1" target="x6nUI_rkGGAJRW-sDzcy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-2" target="x6nUI_rkGGAJRW-sDzcy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-2" value="ingresar al sistema sicia 2.0 en el origen de donde se realizará el traspaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-4" target="x6nUI_rkGGAJRW-sDzcy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-4" value="seleccionar el modulo Entradas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-6" target="x6nUI_rkGGAJRW-sDzcy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-6" value="seleccionar destino" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="x6nUI_rkGGAJRW-sDzcy-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-9" target="x6nUI_rkGGAJRW-sDzcy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-9" value="seleccionar claves y cantidades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-13" value="PDF SALIDA CON FOLIO TRASPASO, ORIGEN, DESTINO, FECHA, HORA, USUARIO, CLAVES LOTES, CADUCIDADES Y CANTIDADES" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="130" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-16" target="x6nUI_rkGGAJRW-sDzcy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-16" value="salir del sistema sicia 2.0 en el&amp;nbsp; origen(empresa/negocio/almacén actual)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-18" target="x6nUI_rkGGAJRW-sDzcy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-18" value="ingresar al sistema sicia 2.0 en el destino donde se ingresará el traspaso." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-20" target="x6nUI_rkGGAJRW-sDzcy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-20" value="seleccionar el Modulo Entradas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-22" target="x6nUI_rkGGAJRW-sDzcy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-22" value="seleccionar el apartado de Entrada por traspaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-24" value="seleccionar el apartado RealizarTraspaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-25" target="x6nUI_rkGGAJRW-sDzcy-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-25" value="digitar folio traspaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-27" target="x6nUI_rkGGAJRW-sDzcy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x6nUI_rkGGAJRW-sDzcy-27" target="x6nUI_rkGGAJRW-sDzcy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-27" value="realizar entrada por traspaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-29" value="realizar salida por traspaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-30" value="PDF SALIDA CON FOLIO TRASPASO, ORIGEN, DESTINO, FECHA, HORA, USUARIO, CLAVES LOTES, CADUCIDADES Y CANTIDADES" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="450" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x6nUI_rkGGAJRW-sDzcy-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
