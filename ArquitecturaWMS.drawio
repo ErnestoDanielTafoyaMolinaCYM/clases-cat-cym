@@ -10,14 +10,8 @@
         <mxCell id="nMXzzmbeyMNV9SAZg80v-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nMXzzmbeyMNV9SAZg80v-1" target="nMXzzmbeyMNV9SAZg80v-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nMXzzmbeyMNV9SAZg80v-1" value="Empresa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nMXzzmbeyMNV9SAZg80v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nMXzzmbeyMNV9SAZg80v-2" target="nMXzzmbeyMNV9SAZg80v-3">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nMXzzmbeyMNV9SAZg80v-2" value="Negocio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nMXzzmbeyMNV9SAZg80v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nMXzzmbeyMNV9SAZg80v-3" target="nMXzzmbeyMNV9SAZg80v-6">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +29,19 @@
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nMXzzmbeyMNV9SAZg80v-12" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="70" width="130" height="180" as="geometry" />
+          <mxGeometry x="50" y="70" width="130" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nMXzzmbeyMNV9SAZg80v-1" target="nMXzzmbeyMNV9SAZg80v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-1" value="Empresa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-2" value="Negocio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
