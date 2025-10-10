@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.5">
   <diagram name="Página-1" id="0DDq4Op6VfTNFtq13c_w">
-    <mxGraphModel dx="1280" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2119" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,33 @@
         </mxCell>
         <mxCell id="nMXzzmbeyMNV9SAZg80v-29" value="La empresa tiene varios negocios.&lt;br data-end=&quot;163&quot; data-start=&quot;160&quot;&gt;&lt;br&gt;Cada negocio trabaja con uno o varios almacenes.&lt;br data-end=&quot;216&quot; data-start=&quot;213&quot;&gt;&lt;br&gt;Dentro de cada almacén hay subalmacenes (como secciones o áreas más pequeñas).&lt;br data-end=&quot;299&quot; data-start=&quot;296&quot;&gt;&lt;br&gt;Y dentro de esos subalmacenes, las cosas se guardan en lugares específicos llamados &lt;em style=&quot;&quot; data-end=&quot;398&quot; data-start=&quot;385&quot;&gt;ubicaciones&lt;/em&gt;.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;La forma en que funciona la SICIA2 está basada en una regla principal: &lt;strong data-end=&quot;284&quot; data-start=&quot;253&quot;&gt;Empresa → Negocio.&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-end=&quot;284&quot; data-start=&quot;253&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-end=&quot;284&quot; data-start=&quot;253&quot;&gt;Todos los movimientos(remisiones, ordenes de compra ) que involucran inventario están ligados al NEGOCIO.&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="457" y="40" width="370" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-30" value="EMPRESAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-31" value="C&amp;amp;M DISTRIBUCIÓN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-32" value="C&amp;amp;M VENTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-33" value="MEDIKAMENTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-34" value="SONORA C&amp;amp;M" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-35" value="Almacen AGS (Aguascalientes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-36" value="Almacen AGS (Aguascalientes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-37" value="&lt;div&gt;Almacen EDOMEX (Lerma)&lt;/div&gt;&lt;div&gt;Almacen MORELOS (Cuernavaca)&lt;/div&gt;&lt;div&gt;SONORA (Aguascalientes-Son)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="810" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-38" value="SONORA (Aguascalientes-Son)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
