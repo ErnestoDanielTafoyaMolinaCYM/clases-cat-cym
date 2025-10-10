@@ -34,8 +34,8 @@
         <mxCell id="nMXzzmbeyMNV9SAZg80v-9" value="Ubicaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nMXzzmbeyMNV9SAZg80v-12" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="nMXzzmbeyMNV9SAZg80v-12" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="130" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
