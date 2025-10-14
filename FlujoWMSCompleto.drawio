@@ -203,17 +203,8 @@
         <mxCell id="WIjFczaLttJIU6z5buxC-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="1160" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WIjFczaLttJIU6z5buxC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-31" target="WIjFczaLttJIU6z5buxC-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WIjFczaLttJIU6z5buxC-31" value="Crear Empresa" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="1160" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="WIjFczaLttJIU6z5buxC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-33" target="WIjFczaLttJIU6z5buxC-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIjFczaLttJIU6z5buxC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-35" target="WIjFczaLttJIU6z5buxC-37">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIjFczaLttJIU6z5buxC-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-37" target="WIjFczaLttJIU6z5buxC-39">
           <mxGeometry relative="1" as="geometry" />
@@ -305,7 +296,7 @@
         <mxCell id="WIjFczaLttJIU6z5buxC-63" value="Altas de inventario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="1110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIjFczaLttJIU6z5buxC-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WIjFczaLttJIU6z5buxC-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="380" y="1140" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WIjFczaLttJIU6z5buxC-33" value="Crear Negocio(Proyecto)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -313,6 +304,15 @@
         </mxCell>
         <mxCell id="WIjFczaLttJIU6z5buxC-35" value="Crear almacén(cedis)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="1160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WIjFczaLttJIU6z5buxC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-33" target="WIjFczaLttJIU6z5buxC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIjFczaLttJIU6z5buxC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-31" target="WIjFczaLttJIU6z5buxC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIjFczaLttJIU6z5buxC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIjFczaLttJIU6z5buxC-35" target="WIjFczaLttJIU6z5buxC-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
