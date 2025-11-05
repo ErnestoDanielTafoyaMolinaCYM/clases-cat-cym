@@ -16,7 +16,7 @@
         <mxCell id="EbWqu_NrQwXxxCeOpK5_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2w-e7mNKXUzaAwIf5ky5-4" target="EbWqu_NrQwXxxCeOpK5_-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2w-e7mNKXUzaAwIf5ky5-4" value="Surtir el traspaso" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="2w-e7mNKXUzaAwIf5ky5-4" value="Surtir el traspaso&lt;div&gt;Generar Folio de salida&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="260" y="1530" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Almacén solicitante&lt;/div&gt;&lt;div&gt;Almacén Que surte&lt;/div&gt;&lt;div&gt;Fecha de solicitud&lt;/div&gt;&lt;div&gt;Fecha propuesta de entrega&lt;/div&gt;&lt;div&gt;Referencia/observaciones&lt;/div&gt;&lt;div&gt;Claves(clave y cantidad)&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2w-e7mNKXUzaAwIf5ky5-21" target="2w-e7mNKXUzaAwIf5ky5-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2w-e7mNKXUzaAwIf5ky5-21" value="realizar inserción/actualización inventario&lt;div&gt;tomar índice del folio movimiento&lt;/div&gt;&lt;div&gt;actualizar índice del folio&lt;br&gt;&lt;div&gt;realizar movimiento de entrada por traspaso en kardex&lt;/div&gt;&lt;div&gt;&lt;div&gt;ingreso de observaciones del movimiento&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="2w-e7mNKXUzaAwIf5ky5-21" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Realizar entrada&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Generar Folio de Entrada&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="1880" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-22" value="PDF Entrada" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
