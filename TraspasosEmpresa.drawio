@@ -13,17 +13,17 @@
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2w-e7mNKXUzaAwIf5ky5-4" target="2w-e7mNKXUzaAwIf5ky5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EbWqu_NrQwXxxCeOpK5_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2w-e7mNKXUzaAwIf5ky5-4" target="2w-e7mNKXUzaAwIf5ky5-21">
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2w-e7mNKXUzaAwIf5ky5-4" target="EbWqu_NrQwXxxCeOpK5_-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2w-e7mNKXUzaAwIf5ky5-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tomar claves de hoja de picking&lt;/div&gt;realizar actualización inventario (salida)&lt;div&gt;tomar índice del folio movimiento&lt;/div&gt;&lt;div&gt;actualizar índice del folio&lt;br&gt;&lt;div&gt;realizar&amp;nbsp; movimiento de salida por traspaso en kardex&lt;/div&gt;&lt;div&gt;ingreso de observaciones del movimiento&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1220" width="320" height="100" as="geometry" />
+        <mxCell id="2w-e7mNKXUzaAwIf5ky5-4" value="Surtir el traspaso" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1530" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2w-e7mNKXUzaAwIf5ky5-5" value="Almacén Origen&lt;div&gt;Almacén solicitante&lt;/div&gt;&lt;div&gt;Claves(clave y cantidad)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1000" width="300" height="80" as="geometry" />
+        <mxCell id="2w-e7mNKXUzaAwIf5ky5-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Almacén solicitante&lt;/div&gt;&lt;div&gt;Almacén Que surte&lt;/div&gt;&lt;div&gt;Fecha de solicitud&lt;/div&gt;&lt;div&gt;Fecha propuesta de entrega&lt;/div&gt;&lt;div&gt;Referencia/observaciones&lt;/div&gt;&lt;div&gt;Claves(clave y cantidad)&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="217.5" y="990" width="405" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-7" value="PDF Salida" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1230" width="180" height="80" as="geometry" />
+          <mxGeometry x="632.5" y="1540" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2w-e7mNKXUzaAwIf5ky5-21" target="2w-e7mNKXUzaAwIf5ky5-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,15 +32,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-21" value="realizar inserción/actualización inventario&lt;div&gt;tomar índice del folio movimiento&lt;/div&gt;&lt;div&gt;actualizar índice del folio&lt;br&gt;&lt;div&gt;realizar movimiento de entrada por traspaso en kardex&lt;/div&gt;&lt;div&gt;&lt;div&gt;ingreso de observaciones del movimiento&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1340" width="320" height="100" as="geometry" />
+          <mxGeometry x="270" y="1880" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-22" value="PDF Entrada" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1350" width="180" height="80" as="geometry" />
+          <mxGeometry x="642.5" y="1890" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
-          <mxGeometry x="355" y="1470" width="130" height="60" as="geometry" />
+          <mxGeometry x="365" y="2020" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2w-e7mNKXUzaAwIf5ky5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2w-e7mNKXUzaAwIf5ky5-5" target="2w-e7mNKXUzaAwIf5ky5-4" edge="1">
+        <mxCell id="2w-e7mNKXUzaAwIf5ky5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EbWqu_NrQwXxxCeOpK5_-22" target="2w-e7mNKXUzaAwIf5ky5-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429.46399999999994" y="1040" as="targetPoint" />
           </mxGeometry>
@@ -48,17 +48,71 @@
         <mxCell id="2w-e7mNKXUzaAwIf5ky5-29" value="Traspasos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="895" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2w-e7mNKXUzaAwIf5ky5-30" value="Información para la salida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1030" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EbWqu_NrQwXxxCeOpK5_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-3" target="EbWqu_NrQwXxxCeOpK5_-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EbWqu_NrQwXxxCeOpK5_-3" value="&lt;div&gt;Crear folio traspaso&lt;/div&gt;Añadir claves y cantidades para hoja de picking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1120" width="310" height="60" as="geometry" />
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-4" value="PDF Pedido(almacén solicitante, almacén que surte, clave,descripcion, presentación y cantidad solicitada)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="1100" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EbWqu_NrQwXxxCeOpK5_-4" value="PDF Picking" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1110" width="180" height="80" as="geometry" />
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2w-e7mNKXUzaAwIf5ky5-5" target="EbWqu_NrQwXxxCeOpK5_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1220" as="targetPoint" />
+            <mxPoint x="420" y="1100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-3" target="EbWqu_NrQwXxxCeOpK5_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-3" value="&lt;div&gt;Crear folio traspaso&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Añadir claves y cantidades para hoja de pedido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1120" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-12" target="EbWqu_NrQwXxxCeOpK5_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-12" value="Autorizar traspaso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1210" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-14" value="¿Autorizado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-14" target="2w-e7mNKXUzaAwIf5ky5-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1340" />
+              <mxPoint x="140" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EbWqu_NrQwXxxCeOpK5_-19">
+          <mxGeometry x="-0.7972" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-14" target="EbWqu_NrQwXxxCeOpK5_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1560" as="targetPoint" />
+            <mxPoint x="420" y="1380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-25" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EbWqu_NrQwXxxCeOpK5_-24">
+          <mxGeometry x="-0.8464" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-22" value="Capturar y apartar claves con respecto al pedido del almacén solicitante" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1410" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-26" target="EbWqu_NrQwXxxCeOpK5_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-26" value="Actualizar Status de surtido por &amp;lt;&amp;lt;embarque&amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1664" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EbWqu_NrQwXxxCeOpK5_-27" target="2w-e7mNKXUzaAwIf5ky5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-27" value="Actualizar status como &amp;lt;&amp;lt;por recibir&amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1790" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
