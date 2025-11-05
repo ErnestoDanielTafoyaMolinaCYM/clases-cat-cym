@@ -114,6 +114,12 @@
         <mxCell id="EbWqu_NrQwXxxCeOpK5_-27" value="Actualizar status como &amp;lt;&amp;lt;por recibir&amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1790" width="320" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-62" value="PDF Remisión" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EbWqu_NrQwXxxCeOpK5_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2w-e7mNKXUzaAwIf5ky5-4" target="EbWqu_NrQwXxxCeOpK5_-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
