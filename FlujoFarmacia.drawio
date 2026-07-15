@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="tqeYSC155XIAJ2rCj_a6">
-    <mxGraphModel dx="2866" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3018" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4448,6 +4448,53 @@
             <mxPoint x="-830" y="3660" as="sourcePoint" />
             <mxPoint x="-730" y="3560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-342" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INSUMO 1" vertex="1">
+          <mxGeometry height="30" width="60" x="-1520" y="4370" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-343" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INSUMO 2" vertex="1">
+          <mxGeometry height="30" width="60" x="-1520" y="4410" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-345" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1210" y="4400.090909090909" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-344" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="salida" vertex="1">
+          <mxGeometry height="80" width="80" x="-1420" y="4360" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-349" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VxnLQgcoberuTYMaZNBB-348" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-346" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="NUMERO DE SERIE" vertex="1">
+          <mxGeometry height="40" width="100" x="-1190" y="4390" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-347" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="VxnLQgcoberuTYMaZNBB-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-351" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VxnLQgcoberuTYMaZNBB-350" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-348" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="FOLIO DE LOTE" vertex="1">
+          <mxGeometry height="40" width="100" x="-980" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-354" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VxnLQgcoberuTYMaZNBB-352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-355" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VxnLQgcoberuTYMaZNBB-352" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-356" edge="1" parent="1" source="VxnLQgcoberuTYMaZNBB-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VxnLQgcoberuTYMaZNBB-353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-350" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="tb_numeros_serie" vertex="1">
+          <mxGeometry height="40" width="100" x="-800" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-352" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="INSUMO 1" vertex="1">
+          <mxGeometry height="40" width="100" x="-640.06" y="4280" as="geometry" />
+        </mxCell>
+        <mxCell id="VxnLQgcoberuTYMaZNBB-353" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="INSUMO 2" vertex="1">
+          <mxGeometry height="40" width="100" x="-640.06" y="4380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
